@@ -1,0 +1,10 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
+cidade = input("Digite sua cidade: ")
+curso = input("Digite seu curso: ")
+
+print("Olá, " + nome + "!")
+print("Você tem " + str(idade) + " anos.")
+print("Mora em " + cidade + ".")
+print("Está cursando " + curso + ".")
+print("Bem-vindo ao mundo da programação!")
